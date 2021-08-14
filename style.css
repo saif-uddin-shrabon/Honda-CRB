@@ -1,0 +1,16 @@
+.banner-clr{
+    background-color: #264653;
+}
+.btn-clr{
+    background-color: #E76F51;
+}
+.spacial-clr{
+    color: #E76F51;
+}                                                                       
+.bike-grayscale{
+    filter: grayscale(100%);
+}
+
+.login-btn{
+    background-color: #E76F51;
+}
